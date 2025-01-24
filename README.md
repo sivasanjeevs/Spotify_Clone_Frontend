@@ -18,8 +18,8 @@ This is a frontend project of a Spotify clone built using **React** and **Tailwi
   
 ## OTHER FILES
 
-SPOTIFY_BACKEND: https://github.com/sivasanjeevs/Spotify_Clone_Backend
-SPOTIFY_ADMIN: https://github.com/sivasanjeevs/Spotify_Clone_Admin
+-SPOTIFY_BACKEND: https://github.com/sivasanjeevs/Spotify_Clone_Backend
+-SPOTIFY_ADMIN: https://github.com/sivasanjeevs/Spotify_Clone_Admin
 
 **Clone the repository**:
 
