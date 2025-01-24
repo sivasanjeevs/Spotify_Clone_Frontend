@@ -15,11 +15,12 @@ This is a frontend project of a Spotify clone built using **React** and **Tailwi
 - **React**: A JavaScript library for building user interfaces
 - **Tailwind CSS**: A utility-first CSS framework for styling
 - **React Router**: For handling routing between pages
-  
-## OTHER FILES
 
--SPOTIFY_BACKEND: https://github.com/sivasanjeevs/Spotify_Clone_Backend
--SPOTIFY_ADMIN: https://github.com/sivasanjeevs/Spotify_Clone_Admin
+## Other Files
+
+- **Spotify_Backend**: https://github.com/sivasanjeevs/Spotify_Clone_Backend
+- **Spotify_Admin**: https://github.com/sivasanjeevs/Spotify_Clone_Admin
+  
 
 **Clone the repository**:
 
