@@ -15,8 +15,13 @@ This is a frontend project of a Spotify clone built using **React** and **Tailwi
 - **React**: A JavaScript library for building user interfaces
 - **Tailwind CSS**: A utility-first CSS framework for styling
 - **React Router**: For handling routing between pages
-- 
+
+## Home Page
+
 ![home page](spoti1.jpg)
+
+## Album Page
+
 ![Album page](spoti2.jpg)
 
 
