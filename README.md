@@ -25,7 +25,7 @@ This is a frontend project of a Spotify clone built using **React** and **Tailwi
 ![Album page](spoti2.jpg)
 
 
-## Other Files
+## Other Files (currently working on it)
 
 - **Spotify_Backend**: https://github.com/sivasanjeevs/Spotify_Clone_Backend
 - **Spotify_Admin**: https://github.com/sivasanjeevs/Spotify_Clone_Admin
