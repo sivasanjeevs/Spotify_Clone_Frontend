@@ -31,8 +31,10 @@ This is a frontend project of a Spotify clone built using **React** and **Tailwi
 - **Spotify_Admin**: https://github.com/sivasanjeevs/Spotify_Clone_Admin
   
 
-**Clone the repository**:
+**Clone the repository and run it**:
 
    ```bash
    git clone https://github.com/sivasanjeevs/Spotify_Clone_Frontend.git
    cd Spotify_Clone_Frontend
+   npm install
+   npm run dev
